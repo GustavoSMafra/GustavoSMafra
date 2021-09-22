@@ -2,9 +2,9 @@
 
 
 
-I’m currently working on a researching in the Unisidade do Vale do Itajaí
-I’m currently learning python and Javascript
-How to reach me: https://www.linkedin.com/in/gustavo-da-silva-mafra-3746b7211/
+- I’m currently working on a researching in the Unisidade do Vale do Itajaí
+- I’m currently learning python and Javascript
+- How to reach me: https://www.linkedin.com/in/gustavo-da-silva-mafra-3746b7211/
 
  <div>
   <a href="https://github.com/GustavoSMafra">
