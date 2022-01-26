@@ -3,7 +3,7 @@
 
 
 - I’m currently working on a researching in the Unisidade do Vale do Itajaí
-- I’m currently learning python, Javascript ans Node.js
+- I’m currently learning python, Javascript and Node.js
 - How to reach me: https://www.linkedin.com/in/gustavo-da-silva-mafra-3746b7211/
 
  <div>
