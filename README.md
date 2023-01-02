@@ -20,10 +20,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React-Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React-Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -32,8 +32,8 @@
 ### Other Knowledge:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp
+![JAVA](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
