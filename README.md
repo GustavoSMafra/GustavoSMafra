@@ -20,10 +20,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp
+![React-Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
