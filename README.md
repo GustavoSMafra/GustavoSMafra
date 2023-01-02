@@ -3,14 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7616ba&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+da+Silva+Mafra;I'm+a+Fullstack+Software+developer+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavosmafra&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo da Silva Mafra github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosmafra&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavosmafra&show_icons=true&count_private=true&hide_border=true&title_color=7616ba&icon_color=7616ba&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo da Silva Mafra github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosmafra&layout=compact&hide_border=true&title_color=7616ba&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=gustavosmafra&theme=gotham&hide_border=true&area=true) -->
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GustavoSMafra&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GustavoSMafra&theme=onestar&row=1&no-bg=true&margin-w=15&margin-h=15" />
 </p>
   
 
@@ -26,7 +24,7 @@
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=PyCharm&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117)&nbsp;
@@ -42,10 +40,10 @@
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)&nbsp;
 
 
-### Contact
+### Contact:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
 
