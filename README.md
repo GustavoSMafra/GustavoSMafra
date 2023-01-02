@@ -13,10 +13,12 @@
 </div>
 
 <div style="align-self: center"> 
-  <a href = "mailto:mafraguh@gamil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mafraguh@gamil.com"><img src=https://github-readme-stats.vercel.app/api?username=[gustavosmafra]" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-da-silva-mafra-3746b7211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/GustavoSMafra/GustavoSMafra/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+https://github-readme-stats.vercel.app/api?username=[your username]
 
