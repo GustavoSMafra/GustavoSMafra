@@ -42,12 +42,3 @@
   <a href ="mailto:mafraguh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-da-silva-mafra-3746b7211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<div align="center">
-  <br>
-    <p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gustavosmafra}/count.svg" /></p> 
-  <br>
-</div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7616ba&height=120&section=footer"/>
