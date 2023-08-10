@@ -22,6 +22,8 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=PyCharm&labelColor=0D1117)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-0D1117?style=for-the-badge&logo=slack&logoColor=white&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/redis-%0D1117.svg?&style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 
 ### Other Knowledge:
 
