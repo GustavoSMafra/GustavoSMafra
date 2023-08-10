@@ -24,17 +24,18 @@
 ![Slack](https://img.shields.io/badge/-Slack-0D1117?style=for-the-badge&logo=slack&logoColor=white&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
-![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-### Studying:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)&nbsp;
 
+### Studying:
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 ### Contact:
 <div> 
