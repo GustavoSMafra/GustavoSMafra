@@ -26,9 +26,9 @@
 ### Other Knowledge:
 
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![VHDL]
 
 
 ### Studying:
