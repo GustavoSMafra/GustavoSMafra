@@ -1,46 +1,65 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7616ba&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Gustavo+da+Silva+Mafra;I'm+a+Full+Stack+Developer+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# Hi there, I'm Gustavo da Silva Mafra 👋
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavosmafra&show_icons=true&count_private=true&hide_border=true&title_color=7616ba&icon_color=7616ba&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo da Silva Mafra github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavosmafra&layout=compact&hide_border=true&title_color=7616ba&text_color=c9d1d9&bg_color=0d1117" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Engenheiro+de+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack+Pleno;Squad+Leader+%40+VHSYS;P%C3%B3s-graduando+em+Arquitetura+de+Software" alt="Typing SVG" />
 </div>
 
-### Main skills:
+---
 
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=43853D)&nbsp;
+### 🚀 Sobre Mim
 
-![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?logo=mongodb&logoColor=4EA94B&style=for-the-badge)&nbsp;
+- 🎓 **Engenheiro de Computação** formado pela **UNIVALI**.
+- 📚 Pós-graduando em **Arquitetura de Software Distribuído** pela **PUC Minas**.
+- 💼 Atualmente atuando como **Desenvolvedor Full Stack Pleno & Squad Leader** na **VHSYS**, liderando a equipe responsável pelos módulos de Gestão de Vendas do ERP.
+- 💡 Sólida experiência no ecossistema **PHP (Laravel, Phalcon, Yii2)**, **JavaScript (Vue.js, React, React Native)** e **Python (Django)**, além de modelagem MySQL, APIs REST e AWS.
+- 📬 Entre em contato comigo: **mafraguh@gmail.com**.
 
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=239120)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+---
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0078D4)&nbsp;
-![PhpStorm](https://img.shields.io/badge/-PHP%20Storm-0D1117?style=for-the-badge&logo=phpstorm&logoColor=white&labelColor=0078D4)&nbsp;
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white&labelColor=E44C30)&nbsp;
-![Redis](https://img.shields.io/badge/redis-0D1117?style=for-the-badge&logo=redis&logoColor=white&labelColor=E44C30)&nbsp;
-![Slack](https://img.shields.io/badge/-Slack-0D1117?style=for-the-badge&logo=slack&logoColor=white&labelColor=4A154B)&nbsp;
+### 🛠️ Tecnologias e Ferramentas
 
-### Other Knowledge:
+**Linguagens & Frameworks (Backend):**
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</p>
 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+**Frontend & Mobile:**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
 
+**Banco de Dados, Cloud & Outros:**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-### Studying:
+### 📊 Estatísticas do GitHub
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=43853D)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?logo=mongodb&logoColor=4EA94B&style=for-the-badge)&nbsp;
-
-### Contact:
-<div> 
-  <a href ="mailto:mafraguh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavosmafra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSMafra&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSMafra&layout=compact&theme=radial"/>
 </div>
+
+---
+
+### 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://linkedin.com/in/gustavosmafra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mafraguh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
