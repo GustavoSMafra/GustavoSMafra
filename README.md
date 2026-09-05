@@ -1,24 +1,24 @@
 # Hi there, I'm Gustavo da Silva Mafra 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Engenheiro+de+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack+Pleno;Squad+Leader+%40+VHSYS;P%C3%B3s-graduando+em+Arquitetura+de+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Engineer;Mid-Level+Full+Stack+Developer;Squad+Leader+%40+VHSYS;Software+Architecture+Postgrad+Student" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
-- 🎓 **Engenheiro de Computação** formado pela **UNIVALI**.
-- 📚 Pós-graduando em **Arquitetura de Software Distribuído** pela **PUC Minas**.
-- 💼 Atualmente atuando como **Desenvolvedor Full Stack Pleno & Squad Leader** na **VHSYS**, liderando a equipe responsável pelos módulos de Gestão de Vendas do ERP.
-- 💡 Sólida experiência no ecossistema **PHP (Laravel, Phalcon, Yii2)**, **JavaScript (Vue.js, React, React Native)** e **Python (Django)**, além de modelagem MySQL, APIs REST e AWS.
-- 📬 Entre em contato comigo: **mafraguh@gmail.com**.
+- 🎓 **Computer Engineer** graduated from **UNIVALI**.
+- 📚 Postgraduate in **Distributed Software Architecture** from **PUC Minas**.
+- 💼 Currently working as **Mid-Level Full Stack Developer & Squad Leader** at **VHSYS**, leading the team responsible for the ERP's Sales Management modules.
+- 💡 Solid experience in the **PHP (Laravel)**, **JavaScript (Vue.js, React, React Native)**, and **Python (Django)** ecosystems, plus MySQL data modeling, REST APIs, and AWS.
+- 📬 Get in touch: **mafraguh@gmail.com**.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 
-**Linguagens & Frameworks (Backend):**
+**Languages & Frameworks (Backend):**
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -34,19 +34,19 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
-**Banco de Dados, Cloud & Outros:**
+**Databases, Cloud & Other Tools:**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Find Me Online
 
 <p align="left">
   <a href="https://linkedin.com/in/gustavosmafra" target="_blank">
